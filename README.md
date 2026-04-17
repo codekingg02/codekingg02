@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi i m Yash Chandra a passionate Full Stack Web Developer focused on building scalable, high-performance web applications.
+
+I specialize in modern frontend and backend technologies, including React.js, Next.js, HTML5, CSS3, JavaScript, Node.js, Express.js, and MongoDB. I also work with REST APIs, Git/GitHub, and tools like Docker and Firebase to streamline development and deployment.
+
+I enjoy turning complex problems into clean, efficient solutions and continuously learning new technologies to stay ahead in the fast-evolving tech landscape. Open to exciting opportunities where I can contribute, grow, and build impactful products.
 
 <!--
 **codekingg02/codekingg02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
